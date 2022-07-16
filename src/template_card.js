@@ -9,7 +9,9 @@ const card =
          <li class="list-group-item">
             <a href="mailto://{{EMAIL}}">{{EMAIL}}</a>
          </li>
-         <li class="list-group-item">{{GITHUB}}</li>
+         <li class="list-group-item">
+            <a href="https://{{GITHUB}}">{{GITHUB}}</a>
+         </li>
          <li class="list-group-item">{{SCHOOL}}</li>
       </ul>
    </div>
