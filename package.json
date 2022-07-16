@@ -1,0 +1,19 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "Generates team profiles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnowLune/team-profile-generator.git"
+  },
+  "author": "Luna Roberge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SnowLune/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/SnowLune/team-profile-generator#readme"
+}
